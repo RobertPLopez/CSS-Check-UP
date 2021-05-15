@@ -1,0 +1,45 @@
+.wrapper{
+    margin: 5px;
+}
+
+.nav0{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 200px;
+    background-color: lightgray;
+    border: 3px solid navy;
+}
+
+table, th, td{
+    position: static;
+    border: .5px solid black;
+    top: 0;
+    right: 0;
+    background-color: lightgray;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+    border-style: dotted;
+    text-align: center;
+    width: 400px;
+    height: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+.pointOfNote{
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+.pointOfNote{
+    font-weight: bold;
+    font-size: 20px;
+    font-display: white;
+}
+
+.background2{
+    background-image:url("../Assets/Unclassified.jpg");
+}
